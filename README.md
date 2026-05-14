@@ -25,3 +25,8 @@ git clone [https://github.com/fatihcayiroglu/arch-setup.git](https://github.com/
 cd arch-setup
 chmod +x oto_kurulum.sh
 ./oto_kurulum.sh
+
+## 💿 Download Arch-Lab Edition
+The easiest way to get started! Download the pre-built, hardware-aware ISO image from our official release:
+
+🚀 **[Download Arch-Lab Edition v1.0.0 ISO](https://github.com/fatihcayiroglu/arch-setup/releases/tag/v1.0.0)**
